@@ -1,0 +1,5 @@
+Options -Indexes
+
+<FilesMatch "^(config|database|includes)$">
+  Require all denied
+</FilesMatch>

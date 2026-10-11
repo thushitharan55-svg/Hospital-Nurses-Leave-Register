@@ -2,3 +2,8 @@
 Thumbs.db
 config/local.php
 *.log
+
+config/database.php
+config/config.php
+/config/
+/database/
